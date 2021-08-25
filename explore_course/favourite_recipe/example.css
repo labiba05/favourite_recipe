@@ -1,0 +1,41 @@
+/* a comment*/
+
+
+*{
+    box-sizing:border-box;
+}
+
+
+p {
+    font-family: fantasy;
+    font-size: medium;
+    font-style: normal
+}
+
+h1, h2, h3{
+    color:cadetblue;
+    font-size: 48px;
+}
+
+{
+    color:darkcyan;
+}
+
+.redheading{
+    color:lavenderblush
+    background-color: ;
+    border-color:  ;
+    border-width:  ;
+}
+
+
+.center {
+    text-align: center;
+}
+
+.new_background {
+    background-color:darkgray
+    margin: 0%;
+    padding: 0%
+    border: 0%
+}
